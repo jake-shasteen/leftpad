@@ -1,3 +1,3 @@
-module shruggie/leftpad
+module github.com/jake-shasteen/leftpad
 
 go 1.14
